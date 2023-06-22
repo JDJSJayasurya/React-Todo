@@ -1,0 +1,11 @@
+ul {
+  background: #ffd0d0;
+  padding: 50px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: rgb(90, 90, 162);
+  margin: 50px;
+  padding: 20px;
+}
